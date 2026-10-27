@@ -19,4 +19,8 @@ A 3D printable holder for the Heltec WiFi LoRa 32 V4 with 5mm spaced mounting ho
 
 **Recommended Print Settings:** 0.20mm layer height, 100% infill, print flat with no supports, PLA/PLA+/ASA
 
+**Printables:** https://www.printables.com/model/1892575-heltec-wifi-lora-32-v4-holder-zip-ties-or-m3-bolts
+
+**Thingiverse:** https://www.thingiverse.com/thing:7427554
+
 **License**: [![CC-BY](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
